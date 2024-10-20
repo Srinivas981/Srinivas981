@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm Chunduri Sai Srinivas;A passionate developer from India&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Chunduri+Sai+Srinivas;A+passionate+developer+from+India&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2yeCvRKKWL0AAAAM/spongebob-work.gif"/>
