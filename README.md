@@ -2,15 +2,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2yeCvRKKWL0AAAAM/spongebob-work.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas981&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas981" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=srinivas981&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas981" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-main-nine.vercel.app/](https://personal-portfolio-main-nine.vercel.app/)
 
 - 📫 How to reach me **saisrinivas461@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F04vOW4F_fLpgwHN711Y-xsNLx3V4dHy/view?usp=drive_link](https://drive.google.com/file/d/1F04vOW4F_fLpgwHN711Y-xsNLx3V4dHy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
